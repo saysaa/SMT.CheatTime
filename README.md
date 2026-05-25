@@ -1,5 +1,10 @@
 # SMT.CheatTime
 
+**Overview**
+
+A toolkit for Supermarket Together that handles real-time resource modification, physics overrides, and custom in-game menus.
+
+
 **Functionality**
 
 - [+] - Add Money
@@ -8,8 +13,6 @@
 - [+] - Speed Hack | **Not added yet**
 - [?] - Random Cheat "I am lucky ?" | **Not added yet**
 
-**Overview**
-A toolkit for Supermarket Together that handles real-time resource modification, physics overrides, and custom in-game menus.
 
 **How it works**
 
