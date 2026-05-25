@@ -5,7 +5,7 @@
 - [+] - Add Money
 - [+] - Add Franchise Points
 - [=] - No-Clip
-- [+] - Speed Hack
-- [?] - Random Cheat "I am lucky ?"
+- [+] - Speed Hack | Not added yet
+- [?] - Random Cheat "I am lucky ?" | Not added yet
 
 **How does SMT.CheatTime work?**
