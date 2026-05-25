@@ -24,6 +24,7 @@ A toolkit for Supermarket Together that handles real-time resource modification,
     * **Physics**: Toggles `Collider` and `Rigidbody` components at runtime to enable No-Clip mode.
 
 **Installation**
+
 Start `SMT-CheatTime.py` and press 1
 
 *Disclaimer: For private/educational use only. Use at your own risk.*
