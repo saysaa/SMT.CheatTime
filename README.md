@@ -24,6 +24,6 @@ A toolkit for Supermarket Together that handles real-time resource modification,
     * **Physics**: Toggles `Collider` and `Rigidbody` components at runtime to enable No-Clip mode.
 
 **Installation**
-Place the mod files in your `SupermarketTogether` root directory (the same folder as the .exe). The mod loads automatically on launch.
+Start `SMT-CheatTime.py` and press 1
 
 *Disclaimer: For private/educational use only. Use at your own risk.*
