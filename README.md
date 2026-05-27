@@ -10,8 +10,8 @@ A toolkit for Supermarket Together that handles real-time resource modification,
 - [+] - Add Money
 - [+] - Add Franchise Points
 - [=] - No-Clip
-- [+] - Speed Hack | **Not added yet**
-- [?] - Random Cheat "I am lucky ?" | **Not added yet**
+- [+] - Speed Hack |
+- [?] - Random Cheat "I am lucky ?" |
 
 
 **How it works**
