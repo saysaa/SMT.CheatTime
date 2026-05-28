@@ -10,8 +10,13 @@ A toolkit for Supermarket Together that handles real-time resource modification,
 - [+] - Add Money
 - [+] - Add Franchise Points
 - [=] - No-Clip
-- [+] - Speed Hack
+- [+] - Speed Hack (x1 - x10)
 - [?] - Random Cheat "I am lucky ?"
+- [+] - Anti-Jail
+- [+] - Grab all steals
+- [+] - Disable barrier
+- [+] - Free DLC
+- [+] - Random Teleport
 
 
 **How it works**
